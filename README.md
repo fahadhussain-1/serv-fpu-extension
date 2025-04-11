@@ -1,5 +1,3 @@
-# serv-fpu-extension
-FPU extension for the SERV RISC-V core via the extension interface
 # FPU Extension for SERV Core
 
 This repository adds support for IEEE 754 single-precision floating-point instructions in the SERV RISC-V core using the extension interface.
